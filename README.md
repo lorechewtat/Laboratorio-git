@@ -1,1 +1,2 @@
 # Laboratorio-git
+Lorena Chewtat
