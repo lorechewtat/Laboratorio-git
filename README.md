@@ -1,5 +1,6 @@
 # Laboratorio-git
 Lorena Chewtat
+Valentina Castilla A01028209
 
 Rebeca Davila Araiza A01029805
 
