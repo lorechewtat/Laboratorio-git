@@ -1,6 +1,8 @@
 # Laboratorio-git
 Lorena Chewtat
 
+Rebeca Davila Araiza A01029805
+
 ## Cambios en repo remoto
 # Github
 ![Github logo](/Imagenes/logo.png)
